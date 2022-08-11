@@ -5,7 +5,7 @@ The Mylyn GitLab Connector allows you to connect Mylyn to your self hosted GitLa
 
 ## Changes
 
-**The new version 2.1.0 works with the Gitlab API v4, but you must recreate the repository in Mylyn, otherwise the issues can not be syncronized due to the changes
+**The new versions 2.1.0+ work with the Gitlab API v4, but you must recreate the repository in Mylyn, otherwise the issues can not be syncronized due to the changes
 in the Gitlab API v4.**
 
 
